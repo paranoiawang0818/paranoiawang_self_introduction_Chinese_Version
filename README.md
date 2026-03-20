@@ -42,13 +42,11 @@
 ---
 
 ## 📬 找到我 / Contact Me
-- **Phone:** 15162452007
 - **WeChat:** [扫码联系我](https://paranoiawang0818.github.io/paranoiawang_self_introduction/) (见网页端)
 - **Mail:** paranoiawang0818@gmail.com
-- **Location:** 常驻长三角 · 苏州
 
 ---
 
 <p align="center">
-  Designed with <span style="color: #FF6188;">♥</span> by Paranoia小妄
+  Designed <span style="color: #FF6188;"></span> by Paranoia小妄
 </p>
