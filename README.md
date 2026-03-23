@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 实时预览 / Live Demo
-🚀 **[点击进入我的主页](https://paranoiawang0818.github.io/paranoiawang_self_introduction/)**
+🚀 **[点击进入我的主页](https://paranoiawang0818.github.io/paranoiawang_self_introduction_Chinese_Version/)**
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ## 📬 找到我 / Contact Me
-- **WeChat:** [扫码联系我](https://paranoiawang0818.github.io/paranoiawang_self_introduction/) (见网页端)
+- **WeChat:** [扫码联系我](https://paranoiawang0818.github.io/paranoiawang_self_introduction_Chinese_Version/) (见网页端)
 - **Mail:** paranoiawang0818@gmail.com
 
 ---
